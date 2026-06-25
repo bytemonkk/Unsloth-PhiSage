@@ -43,14 +43,6 @@ Fine-Tuning Phi-3.5-Mini-Instruct for Medical Question Answering using Unsloth
 
 ---
 
-# Model Architecture
-
-<p align="center">
-  <img src="assets/phi_unsloth_architecture.png" width="100%">
-</p>
-
----
-
 # Technology Stack
 
 * Python
