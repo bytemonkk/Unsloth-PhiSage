@@ -1,0 +1,67 @@
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+build/
+dist/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Hugging Face Cache
+.cache/
+.huggingface/
+hf_cache/
+
+# Model Files
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.gguf
+
+# LoRA Checkpoints
+outputs/
+checkpoints/
+runs/
+logs/
+
+# Datasets
+data/
+dataset/
+datasets/
+*.csv
+*.jsonl
+*.parquet
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
+
+# WandB
+wandb/
+
+# TensorBoard
+events.out.tfevents*
+
+# Misc
+*.log
+```
