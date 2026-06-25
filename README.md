@@ -65,27 +65,6 @@ Fine-Tuning Phi-3.5-Mini-Instruct for Medical Question Answering using Unsloth
 
 ---
 
-# Dataset
-
-The model is fine-tuned on a **Medical Question & Answer Dataset** consisting of healthcare-related questions paired with expert-style answers. The dataset is formatted for instruction tuning, enabling the model to generate informative, context-aware, and clinically relevant responses.
-
-### Example
-
-**Input**
-
-```text
-What are the symptoms of pneumonia?
-```
-
-**Output**
-
-```text
-Common symptoms include fever, cough, chest pain,
-difficulty breathing, fatigue, and chills.
-```
-
----
-
 # Applications
 
 * Medical Question Answering
@@ -135,10 +114,10 @@ This repository showcases an efficient workflow for adapting **Phi-3.5-Mini-Inst
 # Future Work
 
 * 🔹 Retrieval-Augmented Generation (RAG) for evidence-based medical responses
-* 🔹 Multi-turn Clinical Conversations
-* 🔹 Medical Report & Clinical Note Question Answering
-* 🔹 Integration with Electronic Health Records (EHR)
-* 🔹 FastAPI REST API Deployment
-* 🔹 Hugging Face Spaces Demo
-* 🔹 GGUF & ONNX Export
-* 🔹 Quantization for Edge and Mobile Deployment
+* Multi-turn Clinical Conversations
+* Medical Report & Clinical Note Question Answering
+* Integration with Electronic Health Records (EHR)
+* FastAPI REST API Deployment
+* Hugging Face Spaces Demo
+* GGUF & ONNX Export
+* Quantization for Edge and Mobile Deployment
