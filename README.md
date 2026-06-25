@@ -105,7 +105,7 @@ This repository showcases an efficient workflow for adapting **Phi-3.5-Mini-Inst
 
 # Future Work
 
-* 🔹 Retrieval-Augmented Generation (RAG) for evidence-based medical responses
+* Retrieval-Augmented Generation (RAG) for evidence-based medical responses
 * Multi-turn Clinical Conversations
 * Medical Report & Clinical Note Question Answering
 * Integration with Electronic Health Records (EHR)
